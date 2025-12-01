@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **muhammadhammadarshad1333@gmail.com** For Collaboration/Pr
 
 Stay updated with my latest projects by following on LinkedIn.
 
-[![Hammad LinkedIn](https://img.shields.io/badge/LinkedIn-Hammad%20Arshad-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alamimran613](https://www.linkedin.com/in/muhammad-hammad-arshad-6ba257293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn - Hammad Arshad](https://img.shields.io/badge/LinkedIn-Hammad%20Arshad-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-arshad-6ba257293/)
 
 
 ## 🏆 GitHub Trophies
