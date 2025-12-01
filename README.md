@@ -12,7 +12,7 @@
 - 📫 How to reach me **muhammadhammadarshad1333@gmail.com**
 
 - ⚡ Fun fact **I am Introvert**
-- 
+ 
 ## 🔗 I am a Student . 😊😊
 
 Stay updated with my latest projects by following on LinkedIn.
@@ -51,9 +51,6 @@ Stay updated with my latest projects by following on LinkedIn.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🌐 Socials:
-
-[![LinkedIn - Hammad Arshad](https://img.shields.io/badge/LinkedIn-Hammad%20Arshad-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-arshad-6ba257293/)
 
 ### 📊 Data Analyst Quote  
 
