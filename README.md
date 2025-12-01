@@ -1,8 +1,18 @@
-# 💫 Hi 👋, I'm Muhammad Hammad Arshad
-A passionate Data Analyst
+<h1 align="center">Hi 👋, I'm Muhammad Hammad Arshad</h1>
+<h3 align="center">A Passionate Data Analyst From Pakistan</h3>
 
-Email Me 👉 ✉️ **muhammadhammadarshad1333@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad1333&label=Profile%20views&color=0e75b6&style=flat" alt="hammad1333" /> </p>
 
+- 🔭 I’m currently working on **Data Structure Visualizer**
+
+- 🌱 I’m currently learning **Data Analyst**
+
+- 💬 Ask me about **Web Development,Data Analyst**
+
+- 📫 How to reach me **muhammadhammadarshad1333@gmail.com**
+
+- ⚡ Fun fact **I am Introvert**
+- 
 ## 🔗 I am a Student . 😊😊
 
 Stay updated with my latest projects by following on LinkedIn.
