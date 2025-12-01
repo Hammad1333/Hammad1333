@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Muhammad Hammad Arshad
-**A passionate Data Analyst
+A passionate Data Analyst
 
 Email Me 👉 ✉️ **muhammadhammadarshad1333@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -42,7 +42,7 @@ Stay updated with my latest projects by following on LinkedIn.
 
 ## 🌐 Socials:
 
-(https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [!
+[![LinkedIn - Hammad Arshad](https://img.shields.io/badge/LinkedIn-Hammad%20Arshad-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-arshad-6ba257293/)
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
