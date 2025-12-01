@@ -45,8 +45,11 @@ Stay updated with my latest projects by following on LinkedIn.
 
 [![LinkedIn - Hammad Arshad](https://img.shields.io/badge/LinkedIn-Hammad%20Arshad-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-arshad-6ba257293/)
 
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 Data Analyst Quote  
+> "Data is the new oil, but analytics is the engine that turns it into power."
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
